@@ -8,5 +8,5 @@ hari ini saya selasa 23 desember 2025 belajar:
 <li>mengisi section about</li>
 <li>mengisi section contac</li>
 <li> mengisi atribut dari form </li>
-<li> stayling 
+<li> stayling section</li> 
 <ol>
