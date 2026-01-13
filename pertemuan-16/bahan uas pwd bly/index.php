@@ -47,7 +47,7 @@ require_once __DIR__ . '/fungsi.php';
         </label>
 
         <label for="txtNmLengkap"><span>Nama Lengkap:</span>
-          <input type="text" id="txtNmLengkap" name="txtNmLengkap" placeholder="Masukkan Nama Lengkap" required>
+          <input type="text" id="txtNmLengkap" name="txtNmLengkap" placeholder="muhammad adi al amin" required>
         </label>
 
         <label for="txtT4Lhr"><span>Tempat Lahir:</span>
